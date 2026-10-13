@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CFBundleIdentifier</key><string>local.bluetoothkeyboard.wakefix</string>
+    <key>CFBundleName</key><string>BluetoothKeyboardWakeFix</string>
+    <key>CFBundleDisplayName</key><string>蓝牙键盘唤醒助手</string>
+    <key>CFBundleExecutable</key><string>BluetoothKeyboardWakeFix</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>CFBundleShortVersionString</key><string>0.1.0</string>
+    <key>LSMinimumSystemVersion</key><string>13.0</string>
+    <key>NSBluetoothAlwaysUsageDescription</key><string>向你指定名称且系统已连接的蓝牙键盘请求低延迟连接，改善闲置后按键无响应的情况。</string>
+    <key>NSHighResolutionCapable</key><true/>
+</dict></plist>
